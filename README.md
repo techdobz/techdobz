@@ -1,3 +1,5 @@
+![Techdobz](0/techdobz.png)
+
 # 👋 Hey, I’m Techdobz — Quietly Building Tools, Systems & Ideas
 
 I’m an engineer, writer, and builder — focused on **backend-first systems**, automation, and clean internal tools.  
