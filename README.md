@@ -2,8 +2,8 @@
 
 # 👋 Hey, I’m Techdobz — Quietly Building Tools, Systems & Ideas
 
-I’m an engineer, writer, and builder — focused on **backend-first systems**, automation, and clean internal tools.  
-But **Techdobz** isn’t just services — it’s my space for sharing **quiet software, thought loops, and experiments** in building, learning, and simplifying things.
+I’m an engineer, writer, and builder focused on **backend-first systems**, automation, and clean internal tools.  
+But **Techdobz** isn’t just services — it’s a space for sharing **quiet software, thought loops, and experiments** around building, learning, and simplifying things.
 
 > Fast builds. Local-first thinking. Async workflows. Clarity over clutter.
 
@@ -11,8 +11,8 @@ But **Techdobz** isn’t just services — it’s my space for sharing **quiet s
 
 ## 💼 What I Build
 
-- ⚙️ **Custom Backends** — APIs, Django apps, internal logic layers  
-- 🤖 **Automation & Scrapers** — headless bots, webhooks, smart triggers  
+- ⚙️ **Custom Backends** — APIs, Django apps, logic layers  
+- 🤖 **Automation & Scrapers** — bots, webhooks, smart triggers  
 - 📊 **Dashboards & CRMs** — tools to track, filter, and ship internally  
 - 🔐 **Local-First Systems** — encrypted apps, offline-first tools  
 - 🧹 **One-Off Scripts** — CLI tools, schedulers, API wrappers
@@ -23,23 +23,23 @@ But **Techdobz** isn’t just services — it’s my space for sharing **quiet s
 
 ## 🧠 What Techdobz Covers
 
-- 🛠 Tooling & product experiments  
+- 🛠 Tools & product experiments  
 - 🧬 Systems thinking & backend clarity  
-- 🧘‍♂️ Self-improvement, learning, and mental models  
-- 📓 Blogs, walkthroughs, and backend breakdowns  
-- 🔐 Privacy-first design and zero-trust tools
+- 🧘 Self-improvement & learning workflows  
+- 📓 Walkthroughs, breakdowns, blog posts  
+- 🔐 Privacy-first, zero-trust design
 
-It’s a mix of tech, thinking, and tinkering — less noise, more utility.
+A mix of tech, thinking, and tinkering — less noise, more utility.
 
 ---
 
 ## ✉️ Work With Me
 
-If you’re a solo founder, ops-heavy team, or just someone with a messy backend problem — I help turn vague problems into working tools.
+If you're a solo founder, ops-heavy team, or just wrestling with backend chaos — I help turn vague ideas into working systems.
 
 - Small builds, fast turnaround  
-- Backend logic + minimal UI  
-- Fully async, low-touch workflow  
+- Backend logic with minimal UI  
+- Fully async, no hand-holding needed  
 
 📩 [techdobz.com](https://techdobz.com)  
 ☕ [ko-fi.com/techdobz](https://ko-fi.com/techdobz)
@@ -48,25 +48,25 @@ If you’re a solo founder, ops-heavy team, or just someone with a messy backend
 
 ## 🔐 Featured Tool: [Zero](https://techdobz.com/apps/zero)
 
-A fully offline, encrypted vault app for storing sensitive or structured data — from passwords and OTPs to private notes, metadata, or backups.
+A fully offline, encrypted vault app to store sensitive or structured data — passwords, OTPs, private notes, metadata, and more.
 
-- ✅ Fully offline & local-first  
-- 🔐 Encrypted by default (zero cloud, zero accounts)  
-- 🧠 Searchable, structured, schema-friendly  
-- 💻 Available for **Linux** and **Windows** — macOS coming soon
+- ✅ 100% local-first — no accounts, no cloud  
+- 🔐 Encrypted by default (zero-trust design)  
+- 🧠 Structured, schema-aware, searchable  
+- 💻 Available for **Linux** and **Windows** — macOS soon
 
 📘 [Docs](https://techdobz.com/docs)  
-📦 [Download Zero](https://techdobz.com/apps/zero/download)  
+📦 [Download](https://techdobz.com/apps/zero/download)  
 📂 [GitHub Issues](https://github.com/techdobz/zero-app)  
-☕ [Support on Ko-fi](https://ko-fi.com/techdobz)
+☕ [Support](https://ko-fi.com/techdobz)
 
 ---
 
 ## 📰 Elsewhere
 
-- 📚 [Blog](https://techdobz.com/blog) — notes, mental models, backend breakdowns  
-- 🧰 [Projects](https://techdobz.com/#work) — tools built, shipped, and quietly used  
-- 📘 [Docs](https://techdobz.com/docs) — documentation for tools and workflows  
+- 📚 [Blog](https://techdobz.com/blog) — notes, mental models, backend stuff  
+- 🧰 [Projects](https://techdobz.com/#work) — tools, dashboards, quiet builds  
+- 📘 [Docs](https://techdobz.com/docs) — setups, usage, walkthroughs  
 
 ---
 
@@ -74,10 +74,23 @@ A fully offline, encrypted vault app for storing sensitive or structured data �
 
 - Minimal UIs, strong internals  
 - Quiet tools > bloated stacks  
-- Local-first, zero-trust principles  
+- Local-first, encrypted-by-default  
 - Clarity beats cleverness  
 - Systems that stay out of your way
 
 ---
 
-Thanks for visiting. If something here clicks — feel free to reach out, follow, or just borrow an idea.
+## 🔗 Find Me Elsewhere
+
+- 🐦 [Twitter / X](https://x.com/techdobz) — updates, thoughts, & builds    
+- 🧑‍💻 [GitHub](https://github.com/techdobz) — code & projects  
+- 📷 [Instagram](https://instagram.com/tech_dobz) — behind the scenes  
+- ☕ [Ko-fi](https://ko-fi.com/techdobz) — support & side drops  
+- 🗨️ [Reddit](https://reddit.com/u/techdobz) — occasional deep dives  
+- 🌐 [techdobz.com](https://techdobz.com) — blog, tools, services
+
+---
+
+
+Thanks for visiting.  
+If something here clicks — feel free to reach out, follow, or just borrow an idea.
